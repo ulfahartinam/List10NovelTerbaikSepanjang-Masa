@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10 Novel Terbaik Sepanjang Masa</string>
+    <string name="book_name">Nama Buku</string>
+    <string name="author_book">Nama Penulis</string>
+    <string name="name_profile">Ulfa Hartina Maryati</string>
+    <string name="email">ulfahartinamaryati@gmail.com</string>
+    <string name="name_book">Laskar Pelangi</string>
+    <string name="name_author_book">Andre Hirata</string>
+    <string name="book_desc">Berlatarkan pedesaan di dekat pantai di Belitung, novel Laskar Pelangi menceritakan tentang sebelas anak dari keluarga miskin yang bersekolah di SD Muhammadiyah Belitung.</string>
+    <string name="menu_profile">My Profile</string>
+</resources>
